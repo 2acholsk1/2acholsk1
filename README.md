@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2acholsk1
 - 👀 I’m interested in aerospace and basketball
-- 🌱 I’m currently learning in Poznan Univeristy of Technology
+- 🌱 I’m currently learning at Poznan Univeristy of Technology
 - 💞️ Collaborate with PUT Rocketlab on Gitlab.
 - 📫 How to reach me p.zacholski@wp.pl
 
